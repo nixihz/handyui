@@ -1,0 +1,10 @@
+[Mon Jul 25 13:55:01 2022] PHP 8.1.6 Development Server (http://0.0.0.0:4000) started
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49155 Accepted
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49156 Accepted
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49155 [404]: GET / - No such file or directory
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49155 Closing
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49156 [404]: GET /null - No such file or directory
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49156 Closing
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49158 Accepted
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49158 [404]: GET /favicon.ico - No such file or directory
+[Mon Jul 25 13:55:03 2022] 127.0.0.1:49158 Closing
